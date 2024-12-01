@@ -1,3 +1,13 @@
+# Hands on React Native Cource for Begginers in 2024
+
+Build a Full Stack React Native App
+
+from https://www.youtube.com/watch?v=ZBCUegTZF7M
+
+2024-12-01
+~39:00
+---
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
