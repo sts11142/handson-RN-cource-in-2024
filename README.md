@@ -4,8 +4,8 @@ Build a Full Stack React Native App
 
 from https://www.youtube.com/watch?v=ZBCUegTZF7M
 
-2024-12-5
-~54:15
+2024-12-7
+~1:09:17
 ---
 
 # Welcome to your Expo app 👋
